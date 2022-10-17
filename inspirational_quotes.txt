@@ -5,3 +5,5 @@ Yoda
 4 live long and prosper - Spock
 5 housework can't kill you, but why take the chance
 6 the best way to predict the future is to create it - peter drucker
+
+if you can dream it you can do it - walt disney
