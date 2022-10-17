@@ -4,3 +4,4 @@ Yoda
 3 It always seems impossible until its done - Nelson Mandela
 4 live long and prosper - Spock
 5 housework can't kill you, but why take the chance
+6 the best way to predict the future is to create it - peter drucker
